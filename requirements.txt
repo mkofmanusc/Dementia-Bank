@@ -107,7 +107,7 @@ testpath==0.4.4
 threadpoolctl==2.1.0
 #tornado==6.0.4
 tqdm==4.46.0
-traitlets==4.3.3
+#traitlets==4.3.3
 typing-extensions==3.7.4.3
 urllib3==1.26.2
 voila==0.2.16
